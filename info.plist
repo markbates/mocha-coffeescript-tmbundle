@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>name</key>
-	<string>JavaScript mocha</string>
+	<string>CoffeeScript Mocha</string>
 	<key>ordering</key>
 	<array>
 		<string>4AA1FB50-9BB9-400E-A140-D61C39BDFDF5</string>
