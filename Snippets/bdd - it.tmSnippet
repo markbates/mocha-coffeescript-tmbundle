@@ -3,9 +3,8 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>it 'should $1', ->
-  $0
-</string>
+	<string>it '$1', ->
+  $0</string>
 	<key>name</key>
 	<string>bdd - it</string>
 	<key>tabTrigger</key>

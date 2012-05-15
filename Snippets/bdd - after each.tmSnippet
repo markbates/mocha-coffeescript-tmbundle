@@ -4,8 +4,7 @@
 <dict>
 	<key>content</key>
 	<string>afterEach ->
-  $0
-</string>
+  $0</string>
 	<key>name</key>
 	<string>bdd - after each</string>
 	<key>tabTrigger</key>

@@ -4,8 +4,7 @@
 <dict>
 	<key>content</key>
 	<string>before ->
-  $0
-</string>
+  $0</string>
 	<key>name</key>
 	<string>bdd - before</string>
 	<key>tabTrigger</key>
