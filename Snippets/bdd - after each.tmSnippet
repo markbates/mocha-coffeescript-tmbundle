@@ -11,5 +11,7 @@
 	<string>ae</string>
 	<key>uuid</key>
 	<string>7B4DA8F4-2064-468B-B252-054148419B4B</string>
+  <key>scope</key>
+  <string>source.coffee</string>
 </dict>
 </plist>
