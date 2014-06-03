@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>describe "$1", ->
+	<string>describe '$1', ->
   $0</string>
 	<key>name</key>
 	<string>bdd - describe</string>
